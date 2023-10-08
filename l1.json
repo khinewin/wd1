@@ -1,0 +1,9 @@
+{
+    "cars" : [
+        { "id":"1",  "name": "Fit", "brand": "Honda", "price": "400", "color":"White"},
+        { "id":"2",  "name": "Wish", "brand": "Toyota", "price": "750", "color":"Black"},
+        { "id":"3",  "name": "Trax", "brand": "Chevrolet", "price": "1200", "color":"Red"},
+        { "id":"4",  "name": "Crown", "brand": "Toyota", "price": "560", "color":"Grey"},
+        { "id":"5",  "name": "Insight", "brand": "Honda", "price": "450", "color":"White"}
+    ]
+}
